@@ -1,1 +1,1 @@
-How Al assitant works for you? It can send emails on your behalf. It can play music,do wikipedia searches. It is capable of opening websites like Google, Youtube, etc in a web browser. It is also cabale of opening your code editor or IDE with a singld voice command.
+How Al assitant works for you? It can send emails on your behalf. It can play music,do wikipedia searches. It is capable of opening websites like Google, Youtube, etc in a web browser. It is also cabale of opening your code editor or IDE with a single voice command.
